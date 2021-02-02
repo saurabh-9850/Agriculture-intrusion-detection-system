@@ -1,0 +1,2 @@
+# Agriculture-intrusion-detection-system
+In traditional farming methods, it was a mainstay for the farmer to be out in the field, constantly monitoring the land and condition of crops.​  There has been little attention given to wild animal that damage crops, particularly crops of small-scale farmers in near to wild habitat. ​  Therefore, to provide security from wild animals to the agricultural field, we design a prototype for intrusion detection inside agricultural fields.
